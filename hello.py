@@ -8,3 +8,5 @@ print("Test")
 print("Amend")
 
 print(np.random.randint(1,9))
+
+print("AAA")
